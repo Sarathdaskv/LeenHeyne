@@ -1,0 +1,29 @@
+
+html, body {
+   max-width: 100%;
+   overflow-x: hidden;
+}
+
+ion-icon {
+   font-size: larger;
+   border: none;
+ }
+
+ .frontpage{
+   background-color: rgb(251, 246, 247);
+ }
+ 
+ 
+/* @media screen and (max-width:768px) {
+   .first{
+      width: fit-content;
+   }
+} */
+.back-to-top {
+   position: fixed;
+   bottom: 25px;
+   right: 25px;
+   background-color: transparent;
+   border: none;
+   background: transparent;
+}
